@@ -411,4 +411,3 @@ export function WaitlistModal({ type, onClose }: WaitlistModalProps) {
     </div>
   )
 }
-
